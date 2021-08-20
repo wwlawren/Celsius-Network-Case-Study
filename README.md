@@ -7,7 +7,7 @@
 ## Overview & Origin:
 - Celsius Network, a peer-to-peer cryptocurrency lending and borrowing platform.
 
-- Celsius Network was founded in 2017 by Alex Mashinsky, Daniel Leon and Nuke Goldstein.
+- The company was founded in 2017 by Alex Mashinsky, Daniel Leon and Nuke Goldstein.
  
 ![alt text](Alex_Mashinsky_Headshot.jpg)
 
@@ -30,15 +30,15 @@ Before working on the Celsius crypto assets lending and borrowing platform [Nuke
 - Celsius Network is building a community of borrowers and lenders with the aim of replacing Wall Street with blockchain. They believe Traditional financial institutions should no longer control the flow of credit. Their [white paper](https://celsius.network/static/media/celsius-whitepaper.27574611.pdf) explains in detail how they want to use a consensus-based proof-of-stake approach for the community to lend and vouch for one-another creating a self governed credit ecosystem where everyone wins.
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
-- Celsius’s target audience are long term cryptocurrency HOLDers who would like to put their money to work by earning yield on those assets. Celsius Network also attracts crypto holders who want to take loans against their digital assets for cash (or stable coins) with a small interest rate without the need to sell their cryptos. Founder, [Alex Mashinsky](https://mashinsky.medium.com/cant-stop-won-t-stop-2021-a-year-of-milestones-for-celsius-8af2cf496c89) explains in his medium post that this technology can help drive the next 100 million people into the cryptocurrency space. [Celsius Network](https://celsius.network/) claims their platform currently has 942k users across 150 countries.
+- Their target audience are long term cryptocurrency HOLDers who would like to put their money to work by earning yield on those assets. Celsius Network also attracts crypto holders who want to take loans against their digital assets for cash (or stable coins) with a small interest rate without the need to sell their cryptos. Founder, [Alex Mashinsky](https://mashinsky.medium.com/cant-stop-won-t-stop-2021-a-year-of-milestones-for-celsius-8af2cf496c89) explains in his medium post that this technology can help drive the next 100 million people into the cryptocurrency space. [Celsius Network](https://celsius.network/) claims their platform currently has 942k users across 150 countries.
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 - Celsius Network offers zero fees, no gas fees, transfer fees, no origination or withdrawal fees. In addition you have the option of 40+ collateral options and the lowest industry rate for loans starting at 1% apr.
 
 **Which technologies are they currently using, and how are they implementing them?**
-- Celsius network uses blockchain technologies for their phone/web wallet application. They have implemented their platform to use the most popular blockchains including Bitcoin, Ethereum, Cardano, Litecoin, Luna, Polkadot and more. 
+- Celsius Network uses blockchain technologies for their phone/web wallet application. They have implemented their platform to use the most popular blockchains including Bitcoin, Ethereum, Cardano, Litecoin, Luna, Polkadot and more. 
 
-- Celsius uses a custodian called Fireblocks that stores customer funds safely. Through Fireblocks Celsius is able to access Defi protocols which help fund Celsius’s revenue stream. 
+- The company uses a custodian called Fireblocks that stores customer funds safely. Through Fireblocks Celsius is able to access Defi protocols which help fund Celsius’s revenue stream. 
 
 - Celsius participates in Bitcoin mining and is one of the largest investor in bitcoin mining in the United states according to [PRNewswire](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html). Newly minted bitcoin is used to help pay yield to depositors on a weekly basis.
 
@@ -89,7 +89,7 @@ Celsius Network largest competitors include:
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
-- Celsius Network would greatly benefit by improving their fiat on and off ramps and adding in app cryptocurrency swap mechanism.
+- The company would greatly benefit by improving their fiat on and off ramps and adding in app cryptocurrency swap mechanism.
 
 **Why do you think that offering this product or service would benefit the company?**
 
