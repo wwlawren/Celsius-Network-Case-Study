@@ -40,7 +40,7 @@ Before working on the Celsius crypto assets lending and borrowing platform [Nuke
 
 - The company uses a custodian called Fireblocks that stores customer funds safely. Through Fireblocks Celsius is able to access Defi protocols which help fund Celsius’s revenue stream. 
 
-- Celsius participates in Bitcoin mining and is one of the largest investor in bitcoin mining in the United states according to [PRNewswire](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html). Newly minted bitcoin is used to help pay yield to depositors on a weekly basis.
+- Celsius participates in Bitcoin mining and is one of the largest investor in bitcoin mining in the United States according to [PRNewswire](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html). Newly minted bitcoin is used to help pay yield to depositors on a weekly basis.
 
 - Celsius Network has recently released their Rewards Explorer, an interactive platform that you can access via the web or the mobile application. With the Rewards Explorer you have a transparent way to see rates and different variables that go into calculation of weekly crypto payment rewards. 
 
