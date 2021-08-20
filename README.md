@@ -62,7 +62,7 @@ Before working on the Celsius crypto assets lending and borrowing platform [Nuke
 - Celsius Network is a P2P Crypto currency lending and borrowing platform.
 
 **What have been the major trends and innovations of this domain over the last 5-10 years?**
-- The major trends in the cryptocurrency lending and borrowing space include decentralized finance, decentralized applications, decentralized exchanges yield farming, proof-of-stake crypto collateral loans.
+- Decentralized finance, decentralized applications, decentralized exchanges, yield farming, proof-of-stake crypto collateral loans.
 
 **What are the other major companies in this domain?**
 
