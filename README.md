@@ -48,13 +48,13 @@ Before working on the Celsius crypto assets lending and borrowing platform [Nuke
 
 ![alt text](zkAudit.jpg)
 
-[1. Celsius sends zero-knowledge proofs of private data to zkAudit for verification
+1. Celsius sends zero-knowledge proofs of private data to zkAudit for verification
 
 2. zkAudit has access to the transactions that occurred on different blockchains in an encrypted and aggregated format.
 
 3. The private data is verified against the aggregated data and added to the zkAudit ledger as proof of community assets.
 
-4. ZEN is transferred back and forth between the Horizen public mainchain and zkAudit, maintaining the decentralization and data integrity.](https://celsius.network/horizen-labs)
+4. ZEN is transferred back and forth between the Horizen public mainchain and zkAudit, maintaining the decentralization and data integrity.
 
 ## Landscape:
 
