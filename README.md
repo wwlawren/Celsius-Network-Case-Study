@@ -79,7 +79,7 @@ Celsius Network largest competitors include:
 
 - Celsius Network has performed extremely well over the last two years in part with the crypto bull market of 2020/2021. They have paid the community a total of $437 million dollars on 40+ crypto assets in the last 12 months and have a total of $17.1 billion dollars of community assets under management. Alpha Sigma Capital has determined that Celsius Network is currently valued at $3.1 billion according to [CoinTelegraph](https://cointelegraph.com/news/celsius-network-valued-at-3-1b-following-independent-review)
 
-- The CEL token, a utility token that allows you to earn up to 25% more rewards, and 25% discount on loans on the Celsius Network has increased by 1,603.8%. It is currently ranked 49th on [coinpaprika](https://coinpaprika.com/coin/cel-celsius/) and has a market cap of $2,768,675,830 at the time of this writing.
+- The CEL token, a utility token that allows you to earn up to 25% more rewards, and 25% discount on loans on the Celsius Network has increased by 1,603.8%. It is currently ranked 49th on [Coinpaprika](https://coinpaprika.com/coin/cel-celsius/) and has a market cap of $2,768,675,830 at the time of this writing.
 
 ![alt text](cel.jpg)
 
